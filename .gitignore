@@ -1,0 +1,6 @@
+.vs/
+out/
+out-int/
+
+*.user
+*.filters
